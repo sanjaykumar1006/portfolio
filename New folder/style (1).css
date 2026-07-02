@@ -442,7 +442,7 @@ ul { list-style: none; }
 .skill-tag:hover { border-color: var(--gold); color: var(--gold); }
 
 .progress-section { display: flex; flex-direction: column; gap: 28px; }
-.progress-item {}
+
 .progress-info {
   display: flex; justify-content: space-between;
   font-size: 12px; letter-spacing: 0.1em;
